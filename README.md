@@ -47,7 +47,7 @@ Key insights from the dataset:
 
 ## Models Used
 
-We implemented and evaluated the following machine learning models:
+I implemented and evaluated the following machine learning models:
 
 | **Model**                | **Validation Accuracy** | **Test Accuracy** | **Notes**                          |
 |--------------------------|-------------------------|-------------------|-------------------------------------|
