@@ -71,5 +71,5 @@ The final model achieved **100% accuracy** on the test set, successfully disting
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Mushroom-Classification-Project.git
+   git clone https://github.com/MalykaMabom205/Mushroom-Classification-Project.git
    cd Mushroom-Classification-Project
