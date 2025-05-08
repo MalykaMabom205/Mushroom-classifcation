@@ -67,9 +67,6 @@ The **Random Forest Classifier** was selected as the final model due to its perf
 - Relative interpretability among high-performing models
 
 ---
-## Reproduction Guidelines
-# Installation
-pip install scikit-learn xgboost pandas matplotlib
 
 # Execution
 1. Run DataVisualization.ipynb for EDA
