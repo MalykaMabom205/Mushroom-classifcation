@@ -2,8 +2,6 @@
 
 # Mushroom Classification Project 
 ---
-This repository presents a machine learning model trained to classify mushrooms as edible or poisonous based on 22 physical features. The solution leverages classification algorithms like Logistic Regression and Random Forest, trained on a cleaned and preprocessed version of the UCI Mushroom Classification dataset.
----
 ## Overview
 
 This project aims to classify mushrooms as **edible** or **poisonous** using machine learning techniques. The dataset contains 8,124 rows and 23 categorical features such as `cap shape`, `odor`, and `habitat`. The target column (`class`) indicates whether a mushroom is edible (`e`) or poisonous (`p`).
