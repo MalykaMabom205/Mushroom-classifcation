@@ -67,11 +67,16 @@ The final model achieved **100% accuracy** on the test set, successfully disting
 
 ---
 
-## How to Reproduce
+## Software Setup
+For easy reproducibility, Google Colaboratory is recommended due to its pre-installed packages and support for TPU/GPU acceleration.
 
+If using a local environment, ensure the following Python packages are installed:
+pip install numpy pandas matplotlib seaborn scikit-learn
+
+---
 1. Clone the repository:
    ```bash
    git clone https://github.com/MalykaMabom205/Mushroom-Classification-Project.git
    cd Mushroom-Classification-Project
 ## Citations
-The dataset used is in the public domain.
+The  used is in the public domain.
