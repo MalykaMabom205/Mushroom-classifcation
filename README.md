@@ -1,7 +1,6 @@
 ![image](https://github.com/user-attachments/assets/55d7fc3d-c1ee-444b-9020-ecdbbddda81f)
 
 # Mushroom Classification Project 
----
 ## Overview
 
 This project aims to classify mushrooms as **edible** or **poisonous** using machine learning techniques. The dataset contains 8,124 rows and 23 categorical features such as `cap shape`, `odor`, and `habitat`. The target column (`class`) indicates whether a mushroom is edible (`e`) or poisonous (`p`).
