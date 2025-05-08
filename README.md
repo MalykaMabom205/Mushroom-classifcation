@@ -73,3 +73,5 @@ The final model achieved **100% accuracy** on the test set, successfully disting
    ```bash
    git clone https://github.com/MalykaMabom205/Mushroom-Classification-Project.git
    cd Mushroom-Classification-Project
+## Citations
+The dataset used is in the public domain.
