@@ -58,6 +58,13 @@ I implemented and evaluated the following machine learning models:
 | Support Vector Machines  | 100%                   | 100%              | High accuracy but less interpretable.|
 
 The **Random Forest Classifier** was selected as the final model due to its perfect accuracy and interpretability.
+- Balanced performance characteristics
+
+- Built-in feature analysis capabilities
+
+- Strong generalization properties
+
+- Relative interpretability among high-performing models
 
 ---
 
