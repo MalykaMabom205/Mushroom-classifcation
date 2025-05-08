@@ -66,24 +66,7 @@ The **Random Forest Classifier** was selected as the final model due to its perf
 
 - Relative interpretability among high-performing models
 
----
-## Summary of Work Completed
 
-
-# Execution
-1. Run DataVisualization.ipynb for EDA
-2. Execute RandomForestMachine.ipynb for model training
-3. Review feature importance plots in the generated figures/
-
-Key implementation details:
-
-- Default sklearn parameters were used initially
-
-- Minimal preprocessing required
-
-- All visualizations are auto-generated
-
-- GPU acceleration is optional but not required
   
 ---
 
