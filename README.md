@@ -88,4 +88,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn
    git clone https://github.com/MalykaMabom205/Mushroom-Classification-Project.git
    cd Mushroom-Classification-Project
 ## Citations
-The  used is in the public domain.
+The dataset https://www.kaggle.com/datasets/uciml/mushroom-classification  was used is in the public domain.
