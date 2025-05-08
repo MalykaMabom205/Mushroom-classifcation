@@ -75,17 +75,19 @@ pip install scikit-learn xgboost pandas matplotlib
 1. Run DataVisualization.ipynb for EDA
 2. Execute RandomForestMachine.ipynb for model training
 3. Review feature importance plots in the generated figures/
----
+
 Key implementation details:
 
-Default sklearn parameters were used initially
+- Default sklearn parameters were used initially
 
-Minimal preprocessing required
+- Minimal preprocessing required
 
-All visualizations are auto-generated
+- All visualizations are auto-generated
 
-GPU acceleration optional but not required
+- GPU acceleration is optional but not required
+  
 ---
+
 ## Results
 
 The final model achieved **100% accuracy** on the test set, successfully distinguishing between edible and poisonous mushrooms.
