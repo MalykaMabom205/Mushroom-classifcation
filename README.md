@@ -67,6 +67,8 @@ The **Random Forest Classifier** was selected as the final model due to its perf
 - Relative interpretability among high-performing models
 
 ---
+## Summary of Work Completed
+
 
 # Execution
 1. Run DataVisualization.ipynb for EDA
