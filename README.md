@@ -1,5 +1,4 @@
 ![image](https://github.com/user-attachments/assets/55d7fc3d-c1ee-444b-9020-ecdbbddda81f)
-![image](https://github.com/user-attachments/assets/e23fea3a-ee4b-4a62-97b0-042b0f7ac33b)
 
 
 # Mushroom Classification Project 
